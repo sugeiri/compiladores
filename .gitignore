@@ -2,3 +2,7 @@
 /AnalizadorLexico/build/
 /AnalizadorLexico/dist/
 /AnalizadorSintactico/dist/
+/AnalizadorSemantico/target/
+/AnalizadorSemantico/nbproject/private/
+/AnalizadorSemantico/build/
+/AnalizadorSemantico/dist/
