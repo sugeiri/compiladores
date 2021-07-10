@@ -1,0 +1,1 @@
+,VamoAlMambo,vamoalmambo,fuera,Fuera,hacer,si,Si,Sino,sino,para,Para,entero,flotante,fin,string,String,bool,Bool,boolean,Boolean

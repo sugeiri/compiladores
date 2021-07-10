@@ -1,0 +1,19 @@
+// Sugeiri Torres 1-16-0736 ///
+
+VamoAlMambo {
+
+entero n  0
+ 
+entero num  3
+ 
+flotante mult  0
+ 
+repetir ( n  = 0 , n <= 10 , n ++ :
+
+si ( n == num) hacer {
+
+escribir QUIERO PIZZA |
+?
+fin
+
+};
